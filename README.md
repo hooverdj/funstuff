@@ -3,4 +3,4 @@ First repo ever
 
 :alien: markdown is cool :alien:
 
-:beetle: OH NO A BUG
+GET THE BUG :hammer: :beetle:
