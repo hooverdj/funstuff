@@ -5,4 +5,4 @@ First repo ever
 
 condratulations, bug is defeat
 
-SWEEPER MAN HAS BEEN ERASED BY MOP MAN :mop: :smile:
+sweeper MAN is now a WORLD RENOWNED HERO
